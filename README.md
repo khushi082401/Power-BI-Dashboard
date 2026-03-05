@@ -1,5 +1,4 @@
-# Sportify-Music-Analysis using Power-BI & Power-Query
-# 🎧 Spotify Music Analysis Dashboard
+# 🎧 Spotify Music Analysis Dashboard using Power-BI & Power-Query
 
 ## 📊 Project Overview
 This project presents an interactive music analytics dashboard built using Power BI to analyze data from Spotify. The dashboard explores music trends, artist performance, and track characteristics by transforming raw data into meaningful insights.
